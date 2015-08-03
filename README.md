@@ -1,2 +1,2 @@
 # Social-Manager
-One app to rule all of company's social account
+One app to rule all of company's social accounts
